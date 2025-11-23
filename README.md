@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bhavy-sharma)
+
 # 💫 About Me:
 I’m Bhavy Sharma, a passionate Full-Stack Developer who loves building modern, scalable, and user-friendly applications. I enjoy solving complex problems, exploring new technologies, and writing clean, maintainable code.<br><br>-- Tech Stack & Skills:<br><br>Frontend: Next.js, React.js, Tailwind CSS, Bootstrap<br><br>Backend: Express.js, Node.js<br><br>Databases: MongoDB, MySQL<br><br>Programming Languages: C, C++, Java, Python, JavaScript<br><br>Other Skills: REST API Development, Responsive Design, UI/UX, Git & GitHub<br><br>I believe in continuous learning and improving every day, whether it’s mastering new frameworks, optimizing performance, or collaborating on impactful projects. My goal is to create applications that not only work flawlessly but also deliver real value to users.
 
