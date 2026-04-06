@@ -25,5 +25,12 @@ I’m Bhavy Sharma, a passionate Full-Stack Developer who loves building modern,
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/bhavy__sharma__) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/bhavysharma18) 
 
+
+  # 💖 Support Me
+
+If you like my work, consider sponsoring me:
+
+👉 https://github.com/sponsors/bhavy-sharma
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
