@@ -31,5 +31,11 @@ If you like my work, consider sponsoring me:
 
 👉 https://github.com/sponsors/bhavy-sharma
 
+
+
+
+# Directly Support me
+[![](https://raw.githubusercontent.com/coder-shab/Photos/refs/heads/main/WhatsApp%20Image%202026-04-06%20at%2011.41.04%20PM.jpeg)
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
